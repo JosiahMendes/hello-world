@@ -1,0 +1,22 @@
+{
+  "TuckShopProducts": [
+    {
+      "name": "cheetos 25g",
+      "quantity": "30",
+      "costprice": "1.25",
+      "sellingprice": "3"
+    },
+    {
+      "name": "Twix",
+      "quantity": "50",
+      "costprice": "1.38",
+      "sellingprice": "4"
+    },
+    {
+      "name": "CapriSun",
+      "quantity": "6",
+      "costprice": "2.8",
+      "sellingprice": "5"
+    }
+  ]
+}
